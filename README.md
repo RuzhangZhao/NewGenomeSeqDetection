@@ -62,8 +62,7 @@ Shaojun Pei, Department of Mathematical Science, Tsinghua University
 
 [Stephen Shing-Toung Yau](http://homepages.math.uic.edu/~yau/), Department of Mathematical Science, Tsinghua University
 
-License
+### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
-# NewGenomeSeqDetection
-# NewGenomeSeqDetection
+
