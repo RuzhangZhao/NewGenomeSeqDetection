@@ -1,4 +1,4 @@
-# NewGenomeSeqDetection
+# NewGenomeSeqDetection <img src="http://ruzhangzhao.github.io/sticker/rap.png" align="right" width="160px"/>
 
 These codes aim to address the new genome sequence detection problem.
 
